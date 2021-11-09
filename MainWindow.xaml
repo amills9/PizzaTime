@@ -1,0 +1,17 @@
+﻿<Window x:Class="PizzaTime.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PizzaTime" xmlns:view="clr-namespace:PizzaTime.View"
+        mc:Ignorable="d"
+        FontSize="14"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="20 10" MaxWidth="600">
+        <!-- No Navigation setup just yet so hardcode for testing purposes -->
+
+        <!-- <view:OrderListingView DataContext="{Binding CurrentViewModel}"/>  --> <!--Remember to change this in MainViewModel.cs!-->
+        <view:MakeOrderView DataContext="{Binding CurrentViewModel}"/>
+
+    </Grid>
+</Window>

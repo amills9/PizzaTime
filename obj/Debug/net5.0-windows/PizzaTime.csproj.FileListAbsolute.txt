@@ -1,0 +1,50 @@
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.csprojAssemblyReference.cache
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime_MarkupCompile.cache
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime_MarkupCompile.lref
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.exe
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.deps.json
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.runtimeconfig.json
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.runtimeconfig.dev.json
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.dll
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\ref\PizzaTime.dll
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.pdb
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.g.resources
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.AssemblyInfoInputs.cache
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.AssemblyInfo.cs
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.csproj.CoreCompileInputs.cache
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.dll
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\ref\PizzaTime.dll
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.pdb
+C:\Users\Shaun\source\repos\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.genruntimeconfig.cache
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.csproj.AssemblyReference.cache
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\App.g.cs
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime_MarkupCompile.cache
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime_MarkupCompile.lref
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.dll
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\ref\PizzaTime.dll
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.pdb
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.exe
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.deps.json
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.runtimeconfig.json
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.runtimeconfig.dev.json
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.dll
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\ref\PizzaTime.dll
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\bin\Debug\net5.0-windows\PizzaTime.pdb
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\App.baml
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\MainWindow.baml
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.g.resources
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.AssemblyInfoInputs.cache
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.AssemblyInfo.cs
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.csproj.CoreCompileInputs.cache
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\PizzaTime.genruntimeconfig.cache
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\View\OrderListingView.g.cs
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\View\OrderListingView.baml
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\View\MakeOrderView.g.cs
+E:\TAFE\2021\Cert 4 Programming\Programming #2\Week 6\PizzaTime\PizzaTime\obj\Debug\net5.0-windows\View\MakeOrderView.baml

@@ -1,0 +1,26 @@
+﻿<Application x:Class="PizzaTime.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PizzaTime">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value="10 5"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Padding" Value="2 2"/>
+        </Style>
+
+        <!-- Key set styles are good overriders to defaults -->
+        <Style x:Key="DrkRedBtn" TargetType="Button">
+            <Setter Property="Foreground" Value="DarkRed"/>
+            <Setter Property="Background" Value="Beige"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+
+        <Style x:Key="Header" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Foreground" Value="DarkGoldenrod"/>
+        </Style>
+    </Application.Resources>
+</Application>
